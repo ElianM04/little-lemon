@@ -33,7 +33,7 @@ const PictureCard = ({ imageSrc, title, description }) => (
         <SimpleGrid columns={[1,null, 2, 3]} spacing="8">
           <PictureCard
             imageSrc="/greekSalad2.jpeg"
-            title="greek salad"
+            title="greek salad:"
             description=" A delightful blend of ripe tomatoes, crisp cucumbers, bell peppers, red onions, and Kalamata olives, topped with creamy feta cheese. Dressed in extra virgin olive oil, oregano, and a touch of lemon juice, this iconic Mediterranean dish is a refreshing celebration of vibrant flavors."
             
           />
@@ -46,7 +46,7 @@ const PictureCard = ({ imageSrc, title, description }) => (
           />
           <PictureCard
             imageSrc="desert.jpg"
-            title="Card 3"
+            title="dessert:"
             description="Indulge in the exquisite delight of our homemade Lemon Cake. Moist and zesty, each bite is a burst of citrusy sunshine. The delicate balance of sweet and tangy flavors is a true testament to the art of baking. Topped with a velvety lemon glaze, this cake is a heavenly treat that lingers on the palate!"
           />
         </SimpleGrid>

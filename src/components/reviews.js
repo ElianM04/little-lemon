@@ -39,7 +39,7 @@ const ReviewsSection = () => {
           review="I had the most delightful evening at Little Lemon. The ambiance was charming, and the aroma of freshly baked pizza and herbs filled the air. The staff was attentive, and my risotto was a burst of flavors. A true taste of Italy right in our neighborhood. Highly recommended!"
         />
         <ReviewCard
-          imageSrc="alice.jpg"
+          imageSrc="fish.jpg"
           reviewerName="Alice Johnson"
           review="Little Lemon surpassed my expectations! The authentic Italian dishes were a delight to my taste buds. The homemade tiramisu was the perfect ending to a fantastic meal. The staff's warmth and attention to detail made the experience exceptional. Little Lemon is now my go-to Italian spot!"
         />
